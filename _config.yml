@@ -16,8 +16,8 @@
 title: Rushit_Virani
 email: rushitvirnai16@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- This website is going to by me Curriculum Vitae.
- UNDER PROGRESS
+ This website is going to by my Curriculum Vitae.
+               UNDER PROGRESS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rushitvirnai
